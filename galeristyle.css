@@ -1,0 +1,34 @@
+
+.title{
+    text-align: center;
+    color: green;
+    font-family: 'Roboto', sans-serif;
+    font-size: 64px;
+    
+}
+ol{
+    text-align: center;
+    list-style-position: inside
+}
+.cartitle{
+    text-align: center;
+    font-size: 38px;
+    color: red;
+}
+#info{
+    text-align: center;
+}
+.list{
+    color: blueviolet;
+    list-style-position: inside
+    
+}
+#carlist{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+body{
+    background-color: antiquewhite;
+}
